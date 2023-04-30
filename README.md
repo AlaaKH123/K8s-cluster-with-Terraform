@@ -2,8 +2,8 @@
 creation d un cluster Kubernetes local atomatiseé avec Terraform
 dans ce projet on utilise le Terraform pour deployer localement sur notre machine local 
 
-<h1>Requirements</h1> : 
-<h1> Minikube Docker Terraform </h2>
+<h1>Requirements</h1>
+<h2> Minikube Docker Terraform </h2>
 
 
 $minikube start 
