@@ -3,7 +3,7 @@ creation d un cluster Kubernetes local atomatiseé avec Terraform
 dans ce projet on utilise le Terraform pour deployer localement sur notre machine local 
 
 <h1>Requirements</h1> : 
-#Minikube #Docker #Terraform 
+<h1> Minikube Docker Terraform </h2>
 
 
 $minikube start 
@@ -25,7 +25,7 @@ pour deployer ces fichier sur le cluster il faut se placer sur le repo ou on les
 
 #les etapes apres la creation du cluster  : 
 
-#Attention ! :
+<h3>Attention !</h3> :
 
 il faut modifier le fichier provider.tf l adresse ip de cluster :
 
