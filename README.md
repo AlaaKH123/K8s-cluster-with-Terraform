@@ -1,5 +1,5 @@
 # Architecture du cluster : 
-
+![Image 1](C:\Users\USER\Desktop\PFA\Architecture_de_Projet.png)
 
 # K8s-cluster-with-Terraform
 creation d un cluster Kubernetes local atomatiseé avec Terraform
